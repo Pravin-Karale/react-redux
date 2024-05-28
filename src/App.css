@@ -13,6 +13,46 @@
   }
 }
 
+/* */
+.btn-wrapper button{
+  background-color: red;
+  border:0px;
+  margin: 50px;
+  padding: 10px;
+  border-radius: 4px;
+  color: #fff;
+}
+
+.img-wrapper img{
+  width: 80px;
+}
+
+.cart-wrapper {
+  height: 150px;
+  width: 600px;
+  border: 1px solid #ccc;
+}
+
+.item{
+  float:left;
+  display:inline-block;
+  width: 120px;
+  padding: 30px;
+  height: 100px;
+}
+
+.add-to-cart{
+width: 79px;
+position: absolute;
+right: 1%;
+top: 0%;
+}
+img{
+  height: 79px;
+}
+
+/* */
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -27,6 +67,7 @@
 .App-link {
   color: #61dafb;
 }
+
 
 @keyframes App-logo-spin {
   from {
