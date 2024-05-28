@@ -13,4 +13,4 @@ export const addToCart=(data)=>{
 //         data:data
 //     }
 // }
-g
+
